@@ -1,4 +1,4 @@
-module github.com/ahmadrosid/go-testing
+module github.com/ahmadrosid/go-unit-testing
 
 go 1.14
 
